@@ -1,0 +1,15 @@
+Solution looks good and have all the functionalities.
+
+Have couple of suggestions.
+1. Avoid writing redundant code in your solution.
+     In each case when you have written same reading statements, Why canot you move them out of switch.
+                        Console.Write("Please Enter value1 : ");
+                        num1 = Convert.ToInt32(Console.ReadLine());
+
+                        Console.Write("Please Enter Value2 : ");
+                        num2 = Convert.ToInt32(Console.ReadLine());
+
+2. Avoid un necessary readline. You have added readline in each case.when one operaton completed you have to ask for continue/Not. One extra readline in between will confuse the user(Not exactly sure what to do).
+                        Console.Write("Sum is : ");
+                        Console.WriteLine(num1 + num2);
+                        Console.ReadLine();
