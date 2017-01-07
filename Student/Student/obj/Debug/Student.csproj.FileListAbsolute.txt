@@ -1,0 +1,6 @@
+C:\Users\Suraj Kuruganti\test\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Suraj Kuruganti\test\Student\Student\bin\Debug\Student.exe
+C:\Users\Suraj Kuruganti\test\Student\Student\bin\Debug\Student.pdb
+C:\Users\Suraj Kuruganti\test\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\Suraj Kuruganti\test\Student\Student\obj\Debug\Student.exe
+C:\Users\Suraj Kuruganti\test\Student\Student\obj\Debug\Student.pdb
